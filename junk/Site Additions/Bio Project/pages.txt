@@ -1,0 +1,11 @@
+== Squad ==
+squadbios.php
+viewbio.php
+editbio.php
+createbio.php
+submitbiography.php
+
+== Admin ==
+bioadmin.php
+judgebio.php
+judgebiography.php

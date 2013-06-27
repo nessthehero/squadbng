@@ -1,0 +1,110 @@
+<html>
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+<title>test</title>
+<style type="text/css">
+.admin {
+        border-left: 1px solid #FF0000;
+        border-top: 1px solid #FF0000;
+        border-right: 1px solid #FF0000;
+        border-bottom: 1px solid #FF0000;
+        background-color: #660000;
+}
+.judge {
+        border-left: 1px solid #00FF00;
+        border-top: 1px solid #00FF00;
+        border-right: 1px solid #00FF00;
+        border-bottom: 1px solid #00FF00;
+        background-color: #006600;
+}
+.squad {
+        border-left: 1px solid #0000FF;
+        border-top: 1px solid #0000FF;
+        border-right: 1px solid #0000FF;
+        border-bottom: 1px solid #0000FF;
+        background-color: #000066;
+}
+.ranktable {
+        border-right: 1px solid #0000FF;
+        border-bottom: 1px solid #0000FF;
+        border-left: 1px solid #0000FF;
+        border-top: 1px solid #0000FF;
+        background-color: #000066
+}
+.rankrows {
+		background-color:#0000FF;		
+}
+</style>
+</head>
+
+<body>
+
+<table border="0" id="table1" class="ranktable" cellspacing="0">
+	<tr id="row3" class="rankrows">
+          <td id="tr2" class="squad">A</td>
+          <td id="tr2" class="squad">B</td>
+          <td id="tr2" class="squad">C</td>
+          <td id="tr2" class="squad">D</td>
+     </tr>
+
+     <tr id="row1" style="visibility: visible; position: relative;" class="rankrows">
+          <td id="tr1" class="squad">1</td>
+          <td id="tr1" class="squad">2</td>
+          <td id="tr1" class="squad">3</td>
+          <td id="tr1" class="squad">4</td>
+     </tr>
+
+     <tr id="row2" class="rankrows">
+          <td class="squad">a</td>
+          <td class="squad">b</td>
+          <td class="squad">c</td>
+          <td class="squad">d</td>
+     </tr>
+
+</table>
+<script>
+var a = '';
+var b = '<td>H</td><td>1</td><td>2</td><td>3</td>';
+
+function obj(id) {
+	if (document.getElementById) {
+		return document.getElementById(id);
+	}
+	if (document.all) {
+		return document.all[id];
+	}
+	if (document.layers) {
+		return document.layers[id];
+	}
+	return null;
+}
+
+function killRow(id, aid) {
+	var row = obj(id);
+	if (aid != null) {
+		var	abover = obj(aid);
+	} else {
+		var abover = null;
+	}
+	
+	if (document.all){
+		row.style.visibility = "hidden";
+		row.style.position = "absolute";
+		row.height = "0";
+	} else {
+		row.innerHTML = "";
+		if (abover != null) {
+			for (loop=0; loop < abover.length; loop++){
+				abover[loop].rowspan = "2";
+			}
+		}
+	}	
+
+}
+</script>
+<a href="#" onClick="killRow('row1','tr2');">change row 1</a><br>
+<a href="#" onClick="document.getElementById('row2').innerHTML = b">change row 2</a><br>
+</body>
+
+</html>

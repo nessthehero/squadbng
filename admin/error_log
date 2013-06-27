@@ -1,0 +1,9 @@
+[25-Nov-2004 19:14:13] PHP Parse error:  parse error, unexpected T_IF in /home2/nessie/public_html/admin/apply_view.php on line 40
+[26-Nov-2004 17:27:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/nessie/public_html/admin/applications.php:23) in /home2/nessie/public_html/admin/applications.php on line 28
+[27-Nov-2004 13:37:43] PHP Warning:  mkdir(/home2/nessie/public_html/tournaments/gunbound): No such file or directory in /home2/nessie/public_html/admin/create_tournament.php on line 44
+[27-Nov-2004 13:37:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/nessie/public_html/admin/create_tournament.php:44) in /home2/nessie/public_html/admin/create_tournament.php on line 62
+[27-Nov-2004 15:53:47] PHP Parse error:  parse error, unexpected '{' in /home2/nessie/public_html/admin/create_tournament.php on line 43
+[30-Nov-2004 16:47:05] PHP Parse error:  parse error, unexpected '}' in /home2/nessie/public_html/admin/listaccounts.php on line 59
+[11-Dec-2010 23:34:04] PHP Warning:  include_once(inc/includes.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/moffitt/public_html/sites/squadbng/admin/main.php on line 2
+[11-Dec-2010 23:34:04] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'inc/includes.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/moffitt/public_html/sites/squadbng/admin/main.php on line 2
+[11-Dec-2010 23:34:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/moffitt/public_html/sites/squadbng/admin/main.php:2) in /home/moffitt/public_html/sites/squadbng/admin/main.php on line 5

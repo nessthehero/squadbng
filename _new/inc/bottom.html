@@ -1,0 +1,67 @@
+                                        </td>
+                                </tr>
+                                <tr>
+                                        <td width="100%"><img src="<? echo $img_tableBOTTOM; ?>" ALT=""></td>
+                                </tr>
+                        </table>
+                        </center>
+                        </div>
+                </td>
+        </tr>
+</table>
+</center>
+</div>
+<hr width="33%">
+<div align="center">
+<center>
+<table border="0" cellspacing="0">
+        <tr>
+                <td width="600">
+                        <p align="center">
+                        Squad BnG was created by <a href="mailto:nessthehero@comcast.net">NessTheHero</a>, <a href="mailto:GB330033@houston.rr.com">GB330033</a>, and contributed
+                        
+                        help from others. Everything in this site was made by us, with the exception of the Radio Script, which was written by Nathan Bolender.<br />
+
+                        &quot;BnG&quot;, <a href="http://www.bobandgeorge.com/"> &quot;Bob and George&quot;</a>, and all things
+                        
+                        related to the comic of that name are owned by David Anez. All games we play are owned by their creators and we take no credit in making the actual game.<br />
+                        
+                        No profit is accumulated from any item on this site.<br /><br />
+                        
+                        Any questions regarding the website may be directed to NessTheHero.
+                        </p>
+                </td>
+        </tr>
+        <?
+                $css = "
+                        <a href=\"http://jigsaw.w3.org/css-validator/\"><img
+                                src=\"".$img_css."\"
+                                alt=\"Valid CSS\" /></a>
+                ";
+                echo "
+        <tr>
+                <td>
+                        <p align=\"center\">
+                        This site has been validated according to W3C standards with the following validators.<br />
+                        These images are proof that the code is valid.
+						<br />
+                        $css
+                ";
+                if ($w3c === TRUE) {
+                        echo "
+                        <a href=\"http://validator.w3.org/check?uri=referer\"><img
+                                src=\"".$img_valid."\"
+                                alt=\"Valid HTML 4.01 Transitional\" /></a>
+                        ";
+                }
+                echo "
+                        </p>
+                </td>
+        </tr>
+                ";
+        ?>
+</table>
+</center>
+</div>
+</body>
+</html>

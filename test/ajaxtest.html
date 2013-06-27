@@ -1,0 +1,106 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>AJAX Test</title>
+<script language="javascript" src="xmlhttp.js"></script>
+<script language="javascript">
+
+var http = getHTTPObject();
+var temp_tbl;
+var tblHold = "";
+var tbl_key = 0;
+var tblShow;
+
+function obj(id) {
+	if (document.getElementById) { return document.getElementById(id); }
+	if (document.all) { return document.all[id]; }
+	if (document.layers) { return document.layers[id]; }	
+	return null;	
+}
+
+function sendParams(user) {
+	var url = "http://www.squadbng.com/test/getuser.php?user=";
+	//var user = document.ajaxfrm.user_entry.value;
+	
+	http.open("GET", url + escape(user), true);
+	
+	http.onreadystatechange = handleHttpResponse;
+	
+	http.send(null);	
+}
+
+function handleHttpResponse() {
+	if (http.readyState == 4) {
+		results = http.responseText.split(",");
+		
+		var err = obj('error');		
+	
+		err.innerHTML = "";
+		if (results[0] == "error") {
+			err.innerHTML = "<font color='#FF0000'>That username does not exist in the database!</font>";
+		} else {
+			var userInfo = createUserTable(results[0], results[1], results[2]);
+			var user = obj('user');
+			tblHold += userInfo;
+			tblShow = "<table border=1>"+tblHold+"</table>";
+			
+			user.innerHTML = tblShow;
+			//user.innerHTML = "Hey!";
+			
+		}
+
+	}
+}
+
+function createUserTable(username,bracketname,email) {
+	
+	var content = "";
+	
+	content = "<tr>";
+	content += "<td>"+username+"</td>";
+	content += "<td>"+bracketname+"</td>";
+	content += "<td>"+email+"</td>";
+	content += "</tr>";
+	
+	return content;	
+	
+}
+
+function hideTable() {
+	var user = obj('user');
+	tbl_key = 0;
+
+	temp_tbl = user.innerHTML;
+	tblHold = "";
+	user.innerHTML = "";
+
+}
+
+function bringBack() {
+	var user  = obj('user');
+	tbl_key = 1;
+	
+	user.innerHTML = temp_tbl;
+	tblHold = temp_tbl;
+
+}
+
+</script>
+</head>
+<body>
+<noscript>
+You must have javascript enabled to use this page.
+</noscript>
+
+<form id="ajaxfrm" name="ajaxfrm">
+	<p>Enter User Name:	<input type="text" name="user_entry" value="" size="25"></p>
+	<p><input type="button" onClick="sendParams(ajaxfrm.user_entry.value);"  value="Add Me">
+	<input type="button" value="Remove Table" onClick="hideTable();">
+	<input type="button" value="Bring Table Back" onClick="bringBack();"></p>
+</form>
+
+<div id="error"></div>
+<div id="user"></div>
+
+</body>
+</html>

@@ -1,0 +1,57 @@
+body {
+        color: #E0B95B;
+        background-image: url('http://www.squadbng.com/images/space.png');
+        font-size: 8pt;
+        font-family: Verdana, sans-serif;
+}
+font.headers {
+        font-size: 12pt;
+        font-weight: bold;
+}
+a:link {color: #FFFFFF; text-decoration: none;}
+a:visited {color: #E2C022; text-decoration: none;}
+a:active {color: #4A92CD; text-decoration: underline;}
+a:hover {color: #FFFFFF; text-decoration: underline;}
+input.button {
+        color: #E0B95B;
+        font-weight: bold;
+        font-size: 10pt;
+        font-family: Verdana, sans-serif;
+        background-color: #09296A;
+        border-top-width: 1px;
+        border-right-width: 1px;
+        border-bottom-width: 1px;
+        border-left-width: 1px;
+}
+input, textarea, select {
+        border-top-width: 1px;
+        border-right-width: 1px;
+        border-bottom-width: 1px;
+        border-left-width: 1px;
+        color: #E0B95B;
+        font-weight: bold;
+        font-size: 10pt;
+        font-family: Verdana, sans-serif;
+        background-color: #09296A;
+}
+input {text-indent: 2px;}
+.news_header {
+        color: #E0B95B;
+        font-weight: bold;
+        background-color: #000080;
+        border-color: #000080;
+        font-size: 12pt;
+        font-family: 'ChickenScratch AOE', Verdana, sans-serif;
+}
+hr {
+        width: 55%;
+}
+.space_bg {
+        background-image: url('http://www.squadbng.com/images/space.png');
+}
+img {
+        border-top-width: 0;
+        border-right-width: 0;
+        border-bottom-width: 0;
+        border-left-width: 0;
+}

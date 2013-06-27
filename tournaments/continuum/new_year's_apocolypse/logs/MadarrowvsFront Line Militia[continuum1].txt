@@ -1,0 +1,251 @@
+1:Tigerex> rofl (^=.=^) (^=.=) (^=.) (^=) (^) (^ ^) (^) (=^) (.=^) (=.=^) (^=.=^) SPIN KITTY
+Jacen Solo> ?chat
+(local) twdev: AvenDragon,qan,D1st0rt,flared,Jacen Solo
+twbeta: AvenDragon,Hazuki,qan,Krazie_Killer,Jacen Solo
+helmut: GB330033,UrutoraD,Blade_Serpent,Front Line Militia,Jacen Solo
+(local) botdev: Kyace <ZH>,Cpt.Guano!,qan,D1st0rt,Jacen Solo
+uberalerts: BaseAlert,WBDuelAlert,WBDuelAlert2,JavDuelAlert,ElimAlert
+uberalerts: BElimAlert,SpidDuelAlert,SpidDuelAlert2,TournyBot,Stabwound <ZH>
+uberalerts: Machine of God,wadi,Suicidal Killer,Jacen Solo
+Jacen Solo> ?find gb
+GB330033 - (Private arena)
+Jacen Solo> ?find bngtourny
+Unknown user.
+Jacen Solo> ?find uru
+UrutoraD - (Private arena)
+3:Jacen Solo> where is you guys?
+5:ElimAlert> Next elim game is starting now!
+Jacen Solo> ?find front
+Front Line Militia - (Private arena)
+3:Front Line Militia>  Down South
+3:Blade_Serpent> #madarrow. Tourney match in a bit here
+Jacen Solo> what's up with the tourny matches in #madarrow?
+Jacen Solo> ?find lucon
+Not online, last seen 3 days ago
+3:Jacen Solo> is lucon online?
+3:Blade_Serpent> Dunno
+Blade_Serp> XD
+Blade_Serp> I love fighting terrs in the open
+Blade_Serp> :P
+Blade_Serp> Mad's comin back, Spec jacen
+5:BElimAlert> Next baseelim game is starting now!
+Next elimination match is starting. Type ?go baseelim to play
+:#bots:!status
+(Robo Ref)>We are playing Warbird Elim to 10; 12 players left
+(Robo_Ref)>We are voting on game we play next
+  GB330033> Hang on guys, I'm gonna change computers
+:#bots:!status
+(Robo Ref)>We are playing Warbird Elim to 10; 12 players left
+(Robo_Ref)>We are voting on game we play next
+:#bots:!status
+(Robo Ref)>We are playing Warbird Elim to 10; 12 players left
+(Robo_Ref)>We are voting on game we play next
+  GB330033> Gonna log in on the Laptop, so I can judge on that, but practice on this
+Jacen Solo> I'll judge
+:#bots:!status
+(Robo Ref)>We are playing Warbird Elim to 10; 11 players left
+(Robo_Ref)>We are starting Javelin elim in base to 1
+Jacen Solo> I only lag a little bit :)
+Jacen Solo> ?lag
+PING Current:60 ms  Average:80 ms  Low:50 ms  High:320 ms  S2C: 0.1%  C2S: 0.0%
+  GB330033> I still want to watch
+Jacen Solo> mmk, well I claim judge
+Jacen Solo> ?arena
+:triviabot:!repeat
+:triviabot:!score
+Blade_Serp> I could go grab a stopwatch if we need a timer.
+Blade_Serp> What happens if time expires and no one has a kill, same # of kills?
+Blade_Serp> or same*
+  UrutoraD> Nother round
+Jacen Solo> get an extra 5 minutes
+Front Line> Sudden Death
+5:WBDuelAlert> A game of wbduel is about to begin at ?go wbduel
+  UrutoraD> Happened with me and Bal
+Oompa doompa doopady doo, I've got another riddle for you. What to host next? -_- ?go WORMHOLE for super sharks! -swimkid <ER>
+Jacen Solo> I wanted it to be sudden death, but you guys play for 5 more minutes
+  UrutoraD> Twice
+3:GB330033> Alright
+Jacen Solo> I got a stopwatch thing on computer
+Jacen Solo> that counts down
+Blade_Serp> Ok
+Jacen Solo> so... timer thingy
+Front Line> Corners?
+Blade_Serp> So you're timing and judging?
+Jacen Solo> mmm, you could time
+Front Line> Or still time to warm up?
+Jacen Solo> I forgot the judges and timers were seperate
+Blade_Serp> Ok. What do I set it to, 15 mins?
+5:BElimAlert> Next baseelim game is starting now!
+  UrutoraD> Yes
+  GB330033> Hey, how do you do the spec between thing
+Jacen Solo> yes, 15 mintues
+  GB330033> ?
+3:UrutoraD> ?
+Jacen Solo> spec one, f4, spec other, f4
+  UrutoraD> ?
+  Madarrow> Can we kill each other yet?
+Jacen Solo> Jhang, go over to where mad is
+Blade_Serp> What?
+Jacen Solo> for a sec
+Blade_Serp> Gimme a sec to get my timer working
+Blade_Serp> It's on my cell phone and it's kinda odd
+Jacen Solo> oh, it's f5
+Jacen Solo> now, go away toward other safe
+  UrutoraD> Tab also works
+Jacen Solo> wait... double you tee eff
+Jacen Solo> gimme a sec on this one GB... I know it
+  GB330033> I already got it
+Jacen Solo> what is it?
+Front Line> What are you wanting to see?
+  GB330033> Dunno
+Front Line> How fast a Terr is?
+  Madarrow> HURRY UO PEOPLE!!
+  Madarrow> up*
+Blade_Serp> Ok. I'm good. You guys ready??
+Jacen Solo> oh, you just have to hit f4, you don't have to spec on the guys
+Front Line> Not really
+Blade_Serp> Why not?
+5:WBDuelAlert2> A game of wbduel is about to begin at ?go wbduel2
+Front Line> But I will do so anyways
+Jacen Solo> Mad ready?
+  Madarrow> Yep
+Front Line> Get ready to stop the watch in midswing though
+Blade_Serp> Roger. Counting down from 3.
+Blade_Serp> 3
+Blade_Serp> 2
+Blade_Serp> 1
+Jacen Solo> after it starts it won't stop Jhang
+Blade_Serp> GO
+Front Line> Lagout
+Jacen Solo> now, no talking spec people or I murderize you
+Blade_Serp> Wait, does that mean no talking at all, or just talk on private?
+  GB330033> Just talk on teamchat
+Jacen Solo> just talk in private
+Blade_Serp> Roger.
+Jacen Solo> where they can't hear us
+  UrutoraD> This is gonna suck
+Jacen Solo> yea....
+Blade_Serp> Yea... Jhangs ONLY hope in this is to kill Mad ONCE and then run for 15 minutes
+Jacen Solo> I wish terrs were banned...
+Jacen Solo> ?find 2dragons
+2dragons is in SSCX PowerBall
+  Madarrow> WOO!!
+Blade_Serp> Mad 1, Jhang Zip
+Jacen Solo> yep...
+Jacen Solo> Don't go above base enternace
+Front Line> Trying not too
+Blade_Serp> Yea.... My bet: The score will not change till the end of the match.
+Jacen Solo> when you're the one running isn't it pretty easy to not go above that point?
+Jacen Solo> btw blade, time?
+Blade_Serp> 11 minutes remain
+Jacen Solo> ... well, if I get knocked offline... can you judge the rest?
+Blade_Serp> It's just keeping kills, right? Sure
+Blade_Serp> XD
+Front Line> 1-2
+  Madarrow> Grrr
+Blade_Serp> Mad 2, Jhang 1.
+5:BaseAlert> A game of basing is about to begin at ?go base
+Jacen Solo> at the end you just look at scoreboard :)
+Jacen Solo> have we hit 10 min mark?
+Blade_Serp> For some reason those aren't always right
+  Madarrow> Yea
+Blade_Serp> 10 minutes Remain
+Jacen Solo> Jhang: 1, Madarrow: 3
+Blade_Serp> Mad 3, Jhang 1.
+I've always found that when I'm sick there's nothing more soothing than a bloodbath. Type ?go ghoulgames to help me out -Erathia
+  Madarrow> Grrrr.
+Jacen Solo> 4-2
+Blade_Serp> Mad 4, Jhang 2.
+Jacen Solo> but we always go by judges scoreboard anyway :P
+5:WBDuelAlert> A game of wbduel is about to begin at ?go wbduel
+Jacen Solo> counting that as a spawn?
+5:BElimAlert> Next baseelim game is starting now!
+Blade_Serp> That lag?
+Next elimination match is starting. Type ?go baseelim to play
+Blade_Serp> Mad 5, Jhang 3.
+Blade_Serp> Mad 6, Jhang 3.
+Jacen Solo> wait... when did jhang get 3?
+Blade_Serp> ER, 2. My bad.
+Blade_Serp> Mad 6, Jhang 2.
+Blade_Serp> Damn keys are right next to each other.
+Visit www.trenchwars.org for Trench Wars related info and news
+Jacen Solo> lol
+Blade_Serp> Mad 7, Jhang 2.
+Jacen Solo> he's just getting raped...
+5:WBDuelAlert> A game of wbduel is about to begin at ?go wbduel
+Blade_Serp> He's an F ing TERR. What did you expect??
+  Madarrow> WHAT?!?!
+Blade_Serp> Mad 7, Jhang 3. 
+  Madarrow> Grrrrr.
+5:ElimAlert> Next elim game is starting now!
+Jacen Solo> time?
+Front Line> Back in the game now
+Blade_Serp> Cause Jhang Ate, that shoulda been a double.
+Next elimination match is starting. Type ?go elim to play
+Blade_Serp> 7 Minutes left
+Blade_Serp> ...Mad 7, Jhang 4.
+Jacen Solo> 7-4
+5:TournyBot> Tourny over. Next tourny starting soon.
+  Madarrow> Time/
+  Madarrow> ?
+Blade_Serp> 6 Minutes Remaining
+Blade_Serp> Make that 5 Minutes Remaining
+Jacen Solo> Score: Jhang-4 Madarrow-7
+Jacen Solo> anyone logging this?
+Blade_Serp> I can dump it all at the end I think
+Front Line> down by 2
+Jacen Solo> k
+Blade_Serp> Mad 7, Jhang 5
+  Madarrow> YES!!!
+Blade_Serp> Mad 8, Jhang 5
+Blade_Serp> 3 Minutes Remaining
+  Madarrow> YESS!
+Blade_Serp> Mad 9, Jhang 5.
+Jacen Solo> Score: 9-5 (I'm gettin lazy)
+Blade_Serp> Mad 10, Jhang 5
+Front Line> So am I apparantly
+Blade_Serp> 2 Minutes Remaining
+Blade_Serp> Mad 10, Jhang 6.
+5:WBDuelAlert2> A game of wbduel is about to begin at ?go wbduel2
+Blade_Serp> Mad 11, Jhang 6.
+Blade_Serp> Mad 12, Jhang 6.
+Jacen Solo> ?lag
+PING Current:80 ms  Average:90 ms  Low:40 ms  High:700 ms  S2C: 0.0%  C2S: 0.4%
+Blade_Serp> 1 Minute Remaining
+Jacen Solo> score 13-7
+Blade_Serp> Mad 13, Jhang 7
+Blade_Serp> Mad 13, Jhang 8
+Blade_Serp> And Jhang eats a bullet..
+Jacen Solo> then dies
+Blade_Serp> Mad 14, Jhang 8.
+Jacen Solo> to make it 1408
+Jacen Solo> 14-8*
+Blade_Serp> TIME
+  Madarrow> Score?
+Front Line> Abide to Mad, good game
+Jacen Solo> Final score: Madarrow: 14 Jhang: 8
+  Madarrow> Good game.
+Jacen Solo> good game guys
+Jacen Solo> Madarrow advances to the next round
+  Madarrow> For behold Jhang Eater of bullets!
+Front Line> Literally,
+  Madarrow> But thats not his fault.
+Front Line> No, literally
+:triviabot:!score
+:triviabot:!repeat
+Jacen Solo> ?chat
+(local) twdev: AvenDragon,D1st0rt,flared,Jacen Solo
+twbeta: AvenDragon,Hazuki,Jacen Solo,Jeenyuss
+helmut: Blade_Serpent,Front Line Militia,Jacen Solo,Madarrow,GB330033
+helmut: hoopla2479
+(local) botdev: Kyace <ZH>,Cpt.Guano!,D1st0rt,Jacen Solo
+uberalerts: BaseAlert,WBDuelAlert,WBDuelAlert2,JavDuelAlert,ElimAlert
+uberalerts: BElimAlert,SpidDuelAlert,SpidDuelAlert2,TournyBot,Stabwound <ZH>
+uberalerts: wadi,Suicidal Killer,Jacen Solo
+3:Jacen Solo> anyone see lucon around?
+  GB330033> Someone go upload the match
+  GB330033> Someone=Jacen
+Jacen Solo> how?
+Jacen Solo> nvm
+  GB330033> XD
+3:GB330033> Hook'Em Horns!
